@@ -1,0 +1,57 @@
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Basics
+*.py[cod]
+__pycache__
+
+# Translations
+*.mo
+*.pot
+
+# Logs
+*.log
+logs/*
+
+# Packaging files:
+*.egg*
+
+# Sphinx docs:
+docs/_build
+
+# SQLite3 database files:
+*.db
+
+# Pycharm
+.idea
+
+# Eclipse
+.project
+.pydevproject
+.settings
+
+# Linux Editors
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+*.swp
+*.swo
+
+# Npm packates
+node_modules
+
+# virtual environments
+.env
+
